@@ -14,6 +14,9 @@ set undodir=~/.vim/undodir
 set undofile
 set incsearch
 
+
 call plug#begin('~/.vim/plugged')
-" Plugins go here
+    " Plugins go here
+    Plug 'vim-airline/vim-airline'
+    Plug 'vim-airline/vim-airline-themes'
 call plug#end()
