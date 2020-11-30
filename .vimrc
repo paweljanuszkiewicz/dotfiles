@@ -14,6 +14,9 @@ set undodir=~/.vim/undodir
 set undofile
 set incsearch
 
+" delete via backspace in insert mode
+set backspace=indent,eol,start
+
 
 call plug#begin('~/.vim/plugged')
     " Plugins go here
