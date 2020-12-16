@@ -7,3 +7,6 @@
 !.zshrc
 !.brew_formulas
 !.brew_casks
+
+!.oh-my-zsh/custom/themes/*
+!.iTerm/*
