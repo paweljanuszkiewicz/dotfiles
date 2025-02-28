@@ -1,6 +1,7 @@
 *
+!.config
+!.config/**
 
 !.gitignore
 !.zshrc
 !.gitconfig
-!.config/*
